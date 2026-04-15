@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Bumped patch version
 - Resolved TODO items from previous session
+
+## 2026-04-15
+- Improved error handling in edge cases
+- Added .editorconfig for consistent formatting
+- Added basic usage examples to README
