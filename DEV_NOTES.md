@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Added .editorconfig for consistent formatting
 - Added basic usage examples to README
+
+## 2026-04-22
+- Bumped patch version
+- Ran linter, applied auto-fixes
+- Updated license year
