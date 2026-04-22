@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Ran linter, applied auto-fixes
 - Updated license year
+
+## 2026-04-22
+- Added inline documentation for core functions
